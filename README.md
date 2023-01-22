@@ -3,7 +3,7 @@
 This program allows users to track their income and expenses. This would help users to insert their income and expenses into the program to see a summary of their current financial situation. It allows users to save the data to a file.
 
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/8wuQNjo5DlM)
 
 # Development Environment
 
