@@ -7,21 +7,25 @@ This program allows users to track their income and expenses. This would help us
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
+The code uses several classes and methods from the following namespaces:
 
-{Describe the programming language that you used and any libraries.}
+- System: Its a fundamental namespace in the .NET framework that provides a large number of classes and methods for various purposes.
+- System.Collections.Generic: Its a part of the .NET framework that provides classes for working with generic collections.
+- System.IO: It provides classes for working with files and data streams, such as reading and writing to text files.
+
+The code also uses several classes and methods from the .Net framework such as:
+
+- Console class for reading and writing to the console window
+- Dictionary<TKey, TValue> class for creating and working with dictionaries
+- StreamWriter class for writing to text files.
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
-
-- [Web Site Name](http://url.link.goes.here)
-- [Web Site Name](http://url.link.goes.here)
+- [C# References and Tutorial](https://www.w3schools.com/cs/index.php)
+- [Stream Reader and Writer](https://www.guru99.com/c-sharp-stream.html)
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
-
-- Item 1
-- Item 2
-- Item 3
+- GUI
+- Better user interface 
+- Ideas on how to better manage finances based on the input
